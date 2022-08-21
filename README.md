@@ -23,6 +23,12 @@ https://www.nvidia.co.jp/Download/driverResults.aspx/193018/jp
 CUDA Toolkit: 11.6.2  
 https://developer.nvidia.com/cuda-11-6-2-download-archive?target_os=Linux&target_arch=x86_64&Distribution=WSL-Ubuntu&target_version=2.0&target_type=deb_local
 
+### Docker
+
+Docker Desktop 4.11.1 (84025)
+(as WSL 2 backend)
+https://docs.microsoft.com/windows/wsl/tutorials/wsl-containers
+
 # References
 
 * https://github.com/facebookresearch/fairseq/tree/v0.12.2
