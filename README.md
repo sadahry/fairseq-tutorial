@@ -1,4 +1,4 @@
-# Fairseq Tutorial VS Code
+# Fairseq Tutorial on VS Code
 
 A repository to use `fairseq` easily on VSCode.  
 https://github.com/facebookresearch/fairseq
