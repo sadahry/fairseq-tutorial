@@ -26,7 +26,7 @@ https://developer.nvidia.com/cuda-11-6-2-download-archive?target_os=Linux&target
 ### Docker
 
 Docker Desktop 4.11.1 (84025)
-(as WSL 2 backend)
+(as WSL 2 backend)  
 https://docs.microsoft.com/windows/wsl/tutorials/wsl-containers
 
 # References
