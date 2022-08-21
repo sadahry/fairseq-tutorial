@@ -1,9 +1,9 @@
-# Fairseq Tutorial
+# Fairseq Tutorial VS Code
 
-A repository to use `fairseq`.  
+A repository to use `fairseq` on VSCode.  
 https://github.com/facebookresearch/fairseq
 
-You can use this repository on VSCode devcontainer.  
+You probably use this repository easily on VSCode devcontainer.  
 https://code.visualstudio.com/docs/remote/containers
 
 ## Environment
