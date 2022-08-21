@@ -1,0 +1,8 @@
+__pycache__/
+
+# downloads
+data/
+scripts/
+
+# models
+result/

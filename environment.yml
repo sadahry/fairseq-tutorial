@@ -1,0 +1,21 @@
+name: myenv
+channels:
+  - conda-forge
+dependencies:
+- python=3.10.4
+- cudatoolkit=11.6
+- cudnn=8.3.2.44
+- pip:
+  # fairseq
+  - fairseq==0.12.2
+  # To install latest source code, please use github repository
+  # - -e git+https://github.com/pytorch/fairseq@acd9a53607d1e5c64604e88fc9601d0ee56fd6f1#egg=fairseq
+  # torch
+  - --extra-index-url https://download.pytorch.org/whl/cu116
+  - torch==1.12.1+cu116
+  - torchvision==0.13.1+cu116
+  - torchaudio==0.12.1+cu116
+  # others
+  - openpyxl==3.0.10
+  - numpy==1.22.3
+  - sentencepiece==0.1.97
