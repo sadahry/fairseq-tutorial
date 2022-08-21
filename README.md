@@ -17,7 +17,7 @@ Ubuntu 20.04 LTS
 
 GeForce RTX 3090
 
-CUDA Driver: 516.94  
+CUDA Driver: 516.94 (need to install manually)  
 https://www.nvidia.co.jp/Download/driverResults.aspx/193018/jp
 
 CUDA Toolkit: 11.6.2  
