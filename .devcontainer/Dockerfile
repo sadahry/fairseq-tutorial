@@ -26,7 +26,7 @@ RUN apt-get update && apt-get install -y \
 WORKDIR /opt
 
 RUN wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh && \
-    sh Miniconda3-latest-Linux-x86_64.sh -b -p /opt/miniconda3 && \
+    bash Miniconda3-latest-Linux-x86_64.sh -b -p /opt/miniconda3 && \
     rm -r Miniconda3-latest-Linux-x86_64.sh
 
 ENV PATH /opt/miniconda3/bin:$PATH
